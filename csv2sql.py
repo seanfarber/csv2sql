@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 # author: Sean Farber Date: 2/7/2017
-# first create csv from w3Schools example sql tables
 
 import csv
 import os
